@@ -80,7 +80,7 @@ class VehicleState extends Component {
 
                 </Col>
                 <Col push={3}>
-                    <h1>Vehicle Status</h1>
+                    <h1 className="vehicle-status-title">Vehicle Status</h1>
                 <Tooltip title="Engine Temperture">
                     <Progress
                     strokeColor={{

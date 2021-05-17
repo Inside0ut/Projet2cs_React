@@ -66,7 +66,7 @@ class TenantInfo extends Component {
                                 <ContactIcon></ContactIcon>
                             </Col>
                             <Col >
-                                <h3
+                                <h3 className="tenant-name-text"
                                     style={{
                                         marginTop: 5,                     
                                     }}>
